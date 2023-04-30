@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "student.name",
+    "type": "java.lang.String",
+    "description": "A description for 'student.name'"
+  },
+  {
+    "name": "student.roll-no",
+    "type": "java.lang.String",
+    "description": "A description for 'student.roll-no'"
+  },
+  {
+    "name": "student.email",
+    "type": "java.lang.String",
+    "description": "A description for 'student.email'"
+  },
+  {
+    "name": "student.phone",
+    "type": "java.lang.String",
+    "description": "A description for 'student.phone'"
+  }
+]}

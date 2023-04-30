@@ -1,0 +1,69 @@
+#spring:
+#  application:
+#    name: cloud-config-client
+#server:
+#  port: 8888
+#
+#author: Pavan
+#
+#
+#---
+#spring:
+#  config:
+#    activate:
+#      on-profile:
+#      - local
+#server:
+#  port: 8080
+#
+#student:  
+#  name: Sachin
+#  rollNo: 123
+#  email: sachin0@gmail.com
+#  phone: 123456780
+#
+#---
+#spring:
+#  config:
+#    activate:
+#      on-profile:
+#      - dev
+#server:
+#  port: 8081
+#
+#student: 
+#  name: Sachin
+#  rollNo: 1234
+#  email: sachin1@gmail.com
+#  phone: 123456781
+#
+#---
+#spring:
+#  config:
+#    activate:
+#      on-profile:
+#      - sit
+#server:
+#  port: 8082
+#
+#student:
+#  name: Pavan
+#  rollNo: 12345
+#  email: askPavan123@gmail.com
+#  phone: 123456782
+#
+#---
+#spring:
+#  config:
+#    activate:
+#      on-profile:
+#      - uat
+#      
+#server:
+#  port: 8083
+#
+#student: 
+#  name: Sachin
+#  rollNo: 123456
+#  email: sachin3@gmail.com
+#  phone: 123456783
